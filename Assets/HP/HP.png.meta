@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 28794732abf63eb42bf78b6c5723021e
+guid: a827294b6d2aa0b41b2daa9e56259c8e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2043785083260247473
-    second: Wave_Bar_0
+      213: -902086654454736923
+    second: HP_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Wave_Bar_0
+      name: HP_0
       rect:
         serializedVersion: 2
-        x: 103
-        y: 248
-        width: 1201
-        height: 275
-      alignment: 9
-      pivot: {x: 0.05, y: 0.4906676}
+        x: 80
+        y: 117
+        width: 575
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1bd18fc64bbfc5c10800000000000000
-      internalID: 2043785083260247473
+      spriteID: 5e7da9c97f42b73f0800000000000000
+      internalID: -902086654454736923
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ebfa573f6ee4d3d4794bdfb4ec2425d2
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Wave_Bar_0: 2043785083260247473
+      HP_0: -902086654454736923
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
